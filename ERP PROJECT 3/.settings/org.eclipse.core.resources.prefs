@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/erp/module/user/controller/AccountController.java=UTF-8
+encoding//src/main/java/erp/module/user/controller/GroupController.java=UTF-8
+encoding//src/main/java/erp/module/user/controller/UserController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/account/login.jsp=UTF-8
