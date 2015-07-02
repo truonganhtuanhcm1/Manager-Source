@@ -1,0 +1,34 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 1. Requistion: Status th\'eam pedding\
+public sai ch\'ednh t\uc0\u7843  \'93public\'94\
+education degree: viet item ra t\'ean \uc0\u273 \u7847 y \u273 \u7911 , orther => show textbox nh\u7853 p v\'e0o\
+requisition search: requisition id, contract id, location => combobox\
+th\'eam contract name, contract number d\uc0\u432 \u7899 i contract idl\
+th\'eam n\'fat view trong trang view , n\uc0\u7871 u pdf => hi\u7879 n n\'fat view\
+search: ch\uc0\u432 a search th\'ec ch\u432 a load d\u7919  li\u7879 u ra\
+\
+n\'fat copy => duplicate ( load th\'f4ng tin d\'f2ng dc ch\uc0\u7885 n, load d\u7919  li\u7879 u l\'ean => th\'eam m\u7899 i)\
+\
+2. candidate tracker:\
+\
+form edit: th\'eam street v\'e0o location\
+th\'eam candidate id tr\'ean requisition id\
+th\'eam contract id, contract name, contract number \
+\
+th\'eam d\uc0\u7919  li\u7879 u \'97 v\'e0o requision id\
+\
+th\uc0\u7913  t\u7921  status: interview/Pending -> interview schedule -> Position closed\
+\
+Email: l\uc0\u432 u 3 email trong db, khi ch\u7885 n email n\'e0o load email \u273 \'f3\
+\
+Phone: t\uc0\u432 \u417 ng t\u7921 \
+Experience: textarea 2 rows\
+\
+Attemative: textbox dai b\uc0\u7857 ng c\'e1c th\u7857 ng kh\'e1c\
+\
+Candidate salary range: th\'eam note: e.g ($25.000-$30.000)}

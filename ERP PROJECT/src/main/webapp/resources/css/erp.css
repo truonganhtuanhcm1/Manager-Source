@@ -1,0 +1,70 @@
+.erp-form {
+	width: 30% !important;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	margin-top: 100px;
+	padding: 10px;
+	border-radius: 5px;
+	color: #FDC014;
+}
+
+.erp-form h3 {
+	margin-bottom: :10px;
+	color: #FDC014;
+}
+
+.erp-form .row {
+	margin-bottom: 10px;
+}
+
+.erp-form .btn {
+	min-width: 100px;
+}
+
+.erp-form .form-control {
+	width: 100% !important;
+}
+
+body {
+	background-color: #0D253F !important;
+}
+
+.logo {
+	margin: 0;
+}
+
+.logo img {
+	height: 30px;
+}
+
+#menu-left h3 {
+	color: #FDC014;
+}
+
+.container {
+	color: #FDC014;
+}
+
+.table {
+	background: #fff;
+	color: #000;
+}
+
+#navbar .active a {
+	color: #fff !important;
+	background: #FDC014 !important;
+	font-weight: bold;
+}
+
+#navbar a:hover {
+	color: #fff !important;
+	background: #FDC014 !important;
+	font-weight: bold;
+}
+
+#navbar {
+	font-weight: bold;
+}
+.none{
+	display: none !important;
+}
